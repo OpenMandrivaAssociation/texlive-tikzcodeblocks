@@ -3,7 +3,7 @@ Version:	54758
 Release:	2
 Summary:	Helps to draw codeblocks like scratch, NEPO and PXT in TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzcodeblocks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzcodeblocks
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzcodeblocks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzcodeblocks.doc.r%{version}.tar.xz
